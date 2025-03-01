@@ -33,7 +33,7 @@ A simple **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**. This pr
 ## 🔧 Setup & Usage
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/Ruddrayadav/tic-tac-toe.git
    ```
 2. **Navigate to the project folder:**
    ```sh
